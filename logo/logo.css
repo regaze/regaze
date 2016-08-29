@@ -1,0 +1,19 @@
+.navbar-brand>img {
+  display:initial;
+}
+
+#bulb {
+
+  -webkit-transform: rotateZ(180deg);
+          transform: rotateZ(180deg);
+  width: 60%;
+  max-width: 60px;
+}
+.bottom{
+
+  fill: #a6a6a6;
+}
+#bottom1 element.style {
+
+  fill: #a6a6a6;
+}
